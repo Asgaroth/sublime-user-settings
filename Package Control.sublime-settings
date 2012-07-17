@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1342492989,
+	"installed_packages":
+	[
+		"CSSLint",
+		"Edit History",
+		"jQuery",
+		"Package Control",
+		"PhpBeautifier",
+		"Sass",
+		"SublimeCodeIntel",
+		"Yii Framework Snippets"
+	]
+}

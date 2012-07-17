@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+shift+k"], "command": "find_under_expand" },
+    { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+    { "keys": ["alt+left"], "command": "previous_edit" },
+    { "keys": ["alt+right"], "command": "next_edit" },
+    { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+    { "keys": ["ctrl+alt+up"], "command": "duplicate_line" }
+]
