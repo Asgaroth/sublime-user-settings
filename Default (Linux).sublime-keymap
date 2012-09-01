@@ -1,7 +1,5 @@
 [
   { "keys": ["ctrl+ç"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-  { "keys": ["shift+control+7"], "command": "fold" },
-  { "keys": ["ctrl+7"], "command": "unfold" },
   { "keys": ["ctrl+shift+k"], "command": "find_under_expand" },
   { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
   { "keys": ["alt+up"], "command": "swap_line_up" },

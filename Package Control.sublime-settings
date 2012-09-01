@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1343917539,
+	"auto_upgrade_last_run": 1346453841,
 	"installed_packages":
 	[
 		"CSSLint",
@@ -9,7 +9,6 @@
 		"PhpTidy",
 		"Sass",
 		"sublime-jslint",
-		"SublimeCodeIntel",
 		"Yii Framework Snippets"
 	]
 }
