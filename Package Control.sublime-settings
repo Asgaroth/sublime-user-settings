@@ -1,14 +1,20 @@
 {
-	"auto_upgrade_last_run": 1346453841,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"CSSLint",
+		"DocBlockr",
 		"Edit History",
+		"Emmet",
+		"FindKeyConflicts",
 		"jQuery",
 		"Package Control",
 		"PhpTidy",
+		"PHPUnit Completions",
 		"Sass",
 		"sublime-jslint",
+		"SublimeLinter",
 		"Yii Framework Snippets"
 	]
 }
