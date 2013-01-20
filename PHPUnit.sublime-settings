@@ -1,0 +1,4 @@
+{
+    "debug": 0,
+    "phpunit_xml_location_hints": [ "application/test" ]
+}
