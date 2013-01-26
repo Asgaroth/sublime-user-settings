@@ -8,5 +8,7 @@
   { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
   { "keys": ["ctrl+alt+up"], "command": "duplicate_line" },
   { "keys": ["ctrl+shift+alt+t"], "command": "phpunit_run_these_tests" },
-  { "keys": ["alt+/"], "command": "reindent" }
+  { "keys": ["alt+/"], "command": "reindent" },
+  { "keys": ["ctrl+v"], "command": "paste_and_indent" }
+
 ]
