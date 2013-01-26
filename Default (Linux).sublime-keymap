@@ -7,5 +7,6 @@
   { "keys": ["alt+right"], "command": "next_edit" },
   { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
   { "keys": ["ctrl+alt+up"], "command": "duplicate_line" },
-  { "keys": ["ctrl+shift+alt+t"], "command": "phpunit_run_these_tests" }
+  { "keys": ["ctrl+shift+alt+t"], "command": "phpunit_run_these_tests" },
+  { "keys": ["alt+/"], "command": "reindent" }
 ]
