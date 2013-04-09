@@ -4,6 +4,7 @@
 	[
 		"AdvancedNewFile",
 		"Close Oldest File",
+		"ColorPicker",
 		"Compass",
 		"CSSLint",
 		"DocBlockr",
@@ -16,12 +17,12 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"Package Control",
+		"PHP Getters and Setters",
+		"Phpcs",
 		"PhpTidy",
-		"PHPUnit",
 		"PHPUnit Completions",
 		"Sass",
 		"Sublime-HTMLPrettify",
-		"sublime-jslint",
 		"SublimeLinter",
 		"Yii Framework Snippets"
 	]
