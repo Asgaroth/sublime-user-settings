@@ -23,7 +23,12 @@
 		"PHPUnit Completions",
 		"Sass",
 		"Sublime-HTMLPrettify",
+		"sublime-phpmd",
 		"SublimeLinter",
 		"Yii Framework Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/madedotcom/sublime-phpmd"
 	]
 }

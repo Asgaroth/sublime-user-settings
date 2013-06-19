@@ -13,5 +13,13 @@
         "sub": true,
 
         "jquery" : true
-    }
+    },
+    "sublimelinter_executable_map":
+    {
+        "php" : "php -d error_reporting=32767"
+    },
+    // Set to true to highlight annotations
+    "sublimelinter_notes": true,
+    // The set of annotation phrases to highlight
+    "annotations": ["TODO", "README", "FIXME", "ALEXTODO"]
 }

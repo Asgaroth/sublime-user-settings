@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+echo "<pre>";
+var_dump(\$${1:this});
+echo "</pre>";
+${2:die();}
+]]></content>
+  <tabTrigger>dvar</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

@@ -10,6 +10,8 @@
   { "keys": ["ctrl+shift+alt+t"], "command": "phpunit_run_these_tests" },
   { "keys": ["alt+/"], "command": "reindent" },
   { "keys": ["ctrl+v"], "command": "paste_and_indent" },
-  { "keys": ["ctrl+shift+r"], "command": "reopen", "args": {"encoding": "utf-8" } }
-
+  { "keys": ["ctrl+shift+r"], "command": "reopen", "args": {"encoding": "utf-8" } },
+  { "keys": ["ctrl+t"], "command": "new_file" },
+  { "keys": ["ctrl+shift+x"], "command": "tidy_xml_lint" }, 
+  { "keys": ["ctrl+shift+j"], "command": "prettify_json" }
 ]
