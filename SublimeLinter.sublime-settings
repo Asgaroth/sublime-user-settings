@@ -1,0 +1,34 @@
+{
+    /*
+        Sets the mode in which SublimeLinter runs:
+
+        true - Linting occurs in the background as you type (the default).
+        false - Linting only occurs when you initiate it.
+        "load-save" - Linting occurs only when a file is loaded and saved.
+        "save-only" - Linting occurs only when a file is saved.
+    */
+    "sublimelinter": "save-only",
+    "jshint_options":
+    {
+        // To fix column positions for JSHint errors you may want to add `"indent": 1` to your
+        // **User** "jshint_options". This issue affects users with tabs for indentation.
+        // This fix was reverted due to a conflict with using the `"white": true` option.
+        // "indent": 1,
+        "evil": true,
+        "regexdash": true,
+        "browser": true,
+        "wsh": true,
+        "trailing": true,
+        "sub": true,
+        "globals" : { "Trellotrack" :true, "App":true},
+        "jquery" : true
+    },
+    "sublimelinter_executable_map":
+    {
+        "php" : "php -d error_reporting=32767"
+    },
+    // Set to true to highlight annotations
+    "sublimelinter_notes": true,
+    // The set of annotation phrases to highlight
+    "annotations": ["TODO", "README", "FIXME", "ALEXTODO"]
+}

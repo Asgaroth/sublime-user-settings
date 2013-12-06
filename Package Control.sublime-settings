@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Backbone.js",
+		"Close Oldest File",
+		"CoffeeScript",
+		"ColorPicker",
+		"Compass",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"LESS",
+		"LESS-build",
+		"Mocha Snippets",
+		"Package Control",
+		"SCSS",
+		"Tag",
+		"Theme - Soda",
+		"Underscorejs snippets"
+	]
+}

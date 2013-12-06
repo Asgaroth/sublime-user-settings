@@ -1,0 +1,22 @@
+[
+  { "keys": ["ctrl+shift+k"], "command": "find_under_expand" },
+  { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["alt+left"], "command": "previous_edit" },
+  { "keys": ["alt+right"], "command": "next_edit" },
+  { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+  { "keys": ["ctrl+alt+up"], "command": "duplicate_line" },
+  { "keys": ["alt+/"], "command": "reindent" },
+  { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+  { "keys": ["ctrl+shift+r"], "command": "reopen", "args": {"encoding": "utf-8" } },
+  { "keys": ["ctrl+t"], "command": "new_file" },
+  { "keys": ["ctrl+shift+x"], "command": "tidy_xml_lint" },
+  { "keys": ["ctrl+shift+j"], "command": "prettify_json" },
+  { "keys": ["ctrl+alt+left"], "command": "jump_back" },
+  { "keys": ["ctrl+alt+right"], "command": "jump_forward" },
+  // Stupid latin american keyboards
+  { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["f11"], "command": "reindent"},
+  { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } }
+]
