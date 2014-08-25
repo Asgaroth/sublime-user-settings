@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AngularJS",
 		"Backbone.js",
 		"Close Oldest File",
 		"CoffeeScript",
@@ -10,12 +11,16 @@
 		"Compass",
 		"DocBlockr",
 		"Emmet",
+		"Git",
+		"Jade",
 		"Handlebars",
 		"jQuery",
 		"LESS",
+		"Less Tabs",
 		"LESS-build",
 		"Mocha Snippets",
 		"Package Control",
+		"RailsCasts Colour Scheme",
 		"SCSS",
 		"Tag",
 		"Underscorejs snippets"
